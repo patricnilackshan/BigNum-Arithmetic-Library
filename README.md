@@ -1,4 +1,4 @@
-# BigNum Calculator - Cryptographic Large Integer Library
+# BigNum Arithmetic Library - Cryptographic Large Integer Library
 
 A comprehensive C++ implementation of arbitrary precision integer arithmetic designed for public key cryptosystems that require computations with very large integers (512-bit, 1024-bit, 2048-bit, and beyond).
 
@@ -338,3 +338,4 @@ This project is implemented as part of an academic assignment for Information Se
 **Version**: 1.0  
 **Date**: August 2025  
 **Language**: C++11/14/17 compatible
+
